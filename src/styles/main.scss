@@ -1,0 +1,11 @@
+@use './variables' as *;
+
+body {
+  background-color: #f5f5f5;
+  font-family: sans-serif;
+  padding: $padding;
+}
+
+h1 {
+  color: $main-color;
+}
