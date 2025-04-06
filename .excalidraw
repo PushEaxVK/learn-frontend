@@ -1,0 +1,102 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "dy5sfT3bIu_Nq3JNPnC-c",
+      "type": "freedraw",
+      "x": 660.7268001808129,
+      "y": 327.97753918427463,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": null,
+      "seed": 658780196,
+      "version": 3,
+      "versionNonce": 32010396,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1743968533094,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    },
+    {
+      "id": "PWYSxHb4ZIapFZqtRiwRp",
+      "type": "freedraw",
+      "x": 660.7268,
+      "y": 327.977539,
+      "width": 1.8081288999383105e-7,
+      "height": 1.8427465420245426e-7,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": null,
+      "seed": 689369764,
+      "version": 4,
+      "versionNonce": 1712145052,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1743968534667,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.8081288999383105e-7,
+          1.8427465420245426e-7
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        1.8081288999383105e-7,
+        1.8427465420245426e-7
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
